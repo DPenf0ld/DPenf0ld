@@ -1,7 +1,5 @@
 # 🛡️ Cybersecurity Enthusiast | Developer | Researcher  
 
-![Cybersecurity Banner](https://source.unsplash.com/1600x400/?cybersecurity,hacking,technology)  
-
 🔐 Passionate about cybersecurity, ethical hacking, and secure software development.  
 🧑‍💻 Focused on building tools that enhance security awareness, strengthen authentication, and detect vulnerabilities.  
 📖 Constantly researching and experimenting with encryption, penetration testing, and digital forensics.  
@@ -30,6 +28,7 @@
 
 ## 🔥 Featured Projects  
 
+### Currently Working on:
 ### 🛡️ GuardPoint – Cybersecurity Awareness Platform  
 🔗 [GitHub Repo](https://github.com/yourusername/GuardPoint)  
 📌 Features:
@@ -51,18 +50,9 @@
 
 ---
 
-## 📊 GitHub Stats  
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical)  
-
----
-
 ## 🌐 Connect with Me  
 
-🔗 [LinkedIn](https://www.linkedin.com/in/yourusername)  
-🐦 [Twitter](https://twitter.com/yourusername)  
-📧 Email: your.email@example.com  
+🔗 [LinkedIn](https://www.linkedin.com/in/david-penfold-6624ba256/)  
 
 ---
 
