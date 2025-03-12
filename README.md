@@ -56,4 +56,3 @@
 
 ---
 
-🔓 **"Security is not a product, but a process." – Bruce Schneier**  
