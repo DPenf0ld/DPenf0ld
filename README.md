@@ -17,7 +17,7 @@
 
 ---
 
-## 🛠️ Tech Stack & Tools
+##  Tech Stack & Tools
 
 🔹 **Languages**: JavaScript, C#, HTML, CSS, Node.js  
 🔹 **Frameworks**: .NET MAUI, Express.js, Tailwind, OpenAI API  
