@@ -9,7 +9,7 @@ Currently building cross-platform apps with **.NET MAUI**
 
 ##  About Me
 
--  Recently graduated with **First-Class Honours** in Cyber Security  
+-  Graduated with **First-Class Honours** in Cyber Security Bsc
 -  Finished **GuardPoint** – a full-stack cyber awareness training platform  
 -  Building a new cross-platform app with **.NET MAUI**  
 -  Passionate about secure coding, digital forensics, and user privacy  
